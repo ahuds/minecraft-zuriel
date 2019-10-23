@@ -1,0 +1,42 @@
+[21:36:11] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:36:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:36:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:36:11] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:36:11] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:36:11] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[21:36:11] [Server thread/INFO]: Loading properties
+[21:36:11] [Server thread/INFO]: Default game type: SURVIVAL
+[21:36:11] [Server thread/INFO]: Generating keypair
+[21:36:11] [Server thread/INFO]: Starting Minecraft server on 192.168.1.72:25565
+[21:36:11] [Server thread/INFO]: Using epoll channel type
+[21:36:11] [Server thread/INFO]: Preparing level "world"
+[21:36:11] [Server thread/INFO]: Reloading ResourceManager: Default
+[21:36:12] [Server thread/INFO]: Loaded 6 recipes
+[21:36:12] [Server thread/INFO]: Loaded 811 advancements
+[21:36:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:36:14] [Server thread/INFO]: Preparing spawn area: 0%
+[21:36:14] [Server thread/INFO]: Preparing spawn area: 0%
+[21:36:14] [Server thread/INFO]: Preparing spawn area: 0%
+[21:36:14] [Server thread/INFO]: Preparing spawn area: 0%
+[21:36:16] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[21:36:16] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[21:36:16] [Server thread/INFO]: Preparing spawn area: 12%
+[21:36:16] [Server thread/INFO]: Time elapsed: 3175 ms
+[21:36:16] [Server thread/INFO]: Done (4.945s)! For help, type "help"
+[21:36:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@58fb238a[id=<null>,name=ahuds,properties={},legacy=false] (/192.168.1.64:55083) lost connection: Disconnected
+[21:36:25] [User Authenticator #1/INFO]: UUID of player Zurie1 is 74da6a74-e1f9-4d36-b892-5ee8593888f1
+[21:36:25] [Server thread/INFO]: Zurie1[/24.96.141.201:50287] logged in with entity id 98 at (24.582127590698867, 80.0, -277.70805127273877)
+[21:36:25] [Server thread/INFO]: Zurie1 joined the game
+[21:36:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@2dbe7580[id=<null>,name=ahuds,properties={},legacy=false] (/192.168.1.64:55085) lost connection: Disconnected
+[21:36:38] [User Authenticator #2/INFO]: UUID of player samalrus is e71cd350-023a-4046-9a6a-2fd184d1514a
+[21:36:39] [Server thread/INFO]: samalrus[/75.76.12.191:49840] logged in with entity id 434 at (46.299999974668026, 82.0000002, -277.700000025332)
+[21:36:39] [Server thread/INFO]: samalrus joined the game
+[21:37:47] [User Authenticator #3/INFO]: UUID of player ahuds is 3bb85b78-a20e-433c-a949-0093482f0d6a
+[21:37:47] [Server thread/INFO]: ahuds[/192.168.1.64:55193] logged in with entity id 569 at (54.383587484341774, 80.0, -296.03943786667094)
+[21:37:47] [Server thread/INFO]: ahuds joined the game
+[22:10:23] [Server thread/INFO]: Zurie1 lost connection: Disconnected
+[22:10:23] [Server thread/INFO]: Zurie1 left the game
+[22:10:24] [Server thread/INFO]: ahuds lost connection: Disconnected
+[22:10:24] [Server thread/INFO]: ahuds left the game
+[22:10:26] [Server thread/INFO]: samalrus lost connection: Disconnected
+[22:10:26] [Server thread/INFO]: samalrus left the game
