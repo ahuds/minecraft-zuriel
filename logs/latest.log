@@ -1,49 +1,32 @@
-[23:07:10] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[23:07:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23:07:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23:07:11] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[23:07:11] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23:07:11] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[23:07:11] [Server thread/INFO]: Loading properties
-[23:07:11] [Server thread/INFO]: Default game type: SURVIVAL
-[23:07:11] [Server thread/INFO]: Generating keypair
-[23:07:12] [Server thread/INFO]: Starting Minecraft server on 192.168.1.72:25565
-[23:07:13] [Server thread/INFO]: Using epoll channel type
-[23:07:15] [Server thread/WARN]: Failed to load operators list: 
-com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Unterminated array at line 8 column 4 path $[1]
-	at zs.a(SourceFile:507) ~[server.jar:?]
-	at zs.a(SourceFile:523) ~[server.jar:?]
-	at xz.g(SourceFile:146) ~[server.jar:?]
-	at uj.A(SourceFile:106) [server.jar:?]
-	at uj.<init>(SourceFile:29) [server.jar:?]
-	at uk.d(SourceFile:185) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.run(SourceFile:615) [server.jar:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222]
-Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at line 8 column 4 path $[1]
-	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559) ~[server.jar:?]
-	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:476) ~[server.jar:?]
-	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:414) ~[server.jar:?]
-	at com.google.gson.internal.bind.CollectionTypeAdapterFactory$Adapter.read(CollectionTypeAdapterFactory.java:81) ~[server.jar:?]
-	at com.google.gson.internal.bind.CollectionTypeAdapterFactory$Adapter.read(CollectionTypeAdapterFactory.java:61) ~[server.jar:?]
-	at zs.a(SourceFile:505) ~[server.jar:?]
-	... 7 more
-[23:07:15] [Server thread/INFO]: Preparing level "world"
-[23:07:16] [Server thread/INFO]: Reloading ResourceManager: Default
-[23:07:18] [Server thread/INFO]: Loaded 6 recipes
-[23:07:18] [Server thread/INFO]: Loaded 811 advancements
-[23:07:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:07:21] [Server thread/INFO]: Preparing spawn area: 0%
-[23:07:21] [Server thread/INFO]: Preparing spawn area: 0%
-[23:07:21] [Server thread/INFO]: Preparing spawn area: 0%
-[23:07:21] [Server thread/INFO]: Preparing spawn area: 0%
-[23:07:21] [Server thread/INFO]: Preparing spawn area: 0%
-[23:07:21] [Server thread/INFO]: Preparing spawn area: 0%
-[23:07:25] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[23:07:25] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[23:07:25] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[23:07:25] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[23:07:25] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[23:07:25] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[23:07:25] [Server thread/INFO]: Preparing spawn area: 0%
-[23:07:25] [Server thread/INFO]: Time elapsed: 6401 ms
-[23:07:25] [Server thread/INFO]: Done (10.051s)! For help, type "help"
+[23:31:07] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:31:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:31:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:31:07] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:31:07] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:31:08] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[23:31:08] [Server thread/INFO]: Loading properties
+[23:31:08] [Server thread/INFO]: Default game type: SURVIVAL
+[23:31:08] [Server thread/INFO]: Generating keypair
+[23:31:10] [Server thread/INFO]: Starting Minecraft server on 192.168.1.72:25565
+[23:31:11] [Server thread/INFO]: Using epoll channel type
+[23:31:12] [Server thread/INFO]: Preparing level "world"
+[23:31:12] [Server thread/INFO]: Reloading ResourceManager: Default
+[23:31:15] [Server thread/INFO]: Loaded 6 recipes
+[23:31:15] [Server thread/INFO]: Loaded 811 advancements
+[23:31:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:31:18] [Server thread/INFO]: Preparing spawn area: 0%
+[23:31:18] [Server thread/INFO]: Preparing spawn area: 0%
+[23:31:18] [Server thread/INFO]: Preparing spawn area: 0%
+[23:31:18] [Server thread/INFO]: Preparing spawn area: 0%
+[23:31:18] [Server thread/INFO]: Preparing spawn area: 0%
+[23:31:19] [Server thread/INFO]: Preparing spawn area: 0%
+[23:31:22] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[23:31:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[23:31:22] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[23:31:22] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[23:31:22] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[23:31:22] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[23:31:22] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[23:31:23] [Server thread/INFO]: Preparing spawn area: 67%
+[23:31:23] [Server thread/INFO]: Time elapsed: 6637 ms
+[23:31:23] [Server thread/INFO]: Done (11.093s)! For help, type "help"
