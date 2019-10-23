@@ -1,6 +1,6 @@
 #! /bin/bash
 
-cd "$(dirname "$0")"
+cd /opt/minecraft-worlds/zuriel
 git pull
 java -Xmx1024M -Xms1024M -jar /opt/minecraft-server/server.jar nogui
 git add -A
