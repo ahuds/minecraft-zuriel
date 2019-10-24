@@ -1,4 +1,5 @@
 # minecraft-zuriel
+[https://github.com/ahuds/minecraft-zuriel](https://github.com/ahuds/minecraft-zuriel)
 
 
 Prerequisites:
