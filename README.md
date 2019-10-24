@@ -2,13 +2,13 @@
 [https://github.com/ahuds/minecraft-zuriel](https://github.com/ahuds/minecraft-zuriel)
 
 
-Prerequisites:
+# Prerequisites:
 1. Git Bash
 2. Java 8
 3. GitHub account with SSH keys configured
 
-###############################################################################
-How to Configure:
+-------------------------------------------------------------------------------
+# How to Configure:
 
 1. Download [Git for Windows](https://git-scm.com)
 
@@ -61,8 +61,9 @@ $ git clone git@github.com:ahuds/minecraft-zuriel.git
 $ cd minecraft-zuriel
 ```
 
-###############################################################################
-How to Run Server:
+-------------------------------------------------------------------------------
+
+# How to Run Server:
 
 1. Open **Git Bash**
 
