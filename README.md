@@ -16,7 +16,7 @@ How to Configure:
 3. Open Git Bash
 
 4. Type the following and press enter several times to select all default options
-```
+```bash
 $ ssh-keygen
 ```
 
@@ -29,14 +29,14 @@ $ ssh-keygen
 8. Click "New SSH key"
 
 9. Type the following in Git Bash and copy the output into the "Key" field on GitHub
-```
+```bash
 $ cat ~/.ssh/id_rsa.pub
 ```
 
 10. Click "Add SSH key"
 
 11. In Git Bash, navigate to the directory where you want to install the Minecraft server files
-```
+```bash
 $ cd ~
 ```
 
