@@ -51,12 +51,12 @@ $ git config --global user.name "John Doe"
 ```
 
 14. Clone the repo to your system
-```
+```bash
 $ git clone git@github.com:ahuds/minecraft-zuriel.git
 ```
 
 15. Navigate to the cloned repo
-```
+```bash
 $ cd minecraft-zuriel
 ```
 
@@ -66,12 +66,12 @@ How to Run Server:
 1. Open Git Bash
 
 2. Navigate to directory where Minecraft files are stored
-```
+```bash
 $ cd ~/minecraft-zuriel
 ```
 
 3. Update and run the server
-```
+```bash
 $ ./runMinecraftServer.sh
 ```
 
