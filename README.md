@@ -56,6 +56,6 @@ How to Run Server:
   $ cd ~/minecraft-zuriel
 
 3. Update and run the server
-  $ ./runMinecraftServer
+  $ ./runMinecraftServer.sh
 
 4. To close the server and push changes back to GitHub, press Ctrl+C
