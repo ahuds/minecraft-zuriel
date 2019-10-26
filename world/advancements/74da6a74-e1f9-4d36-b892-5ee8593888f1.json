@@ -712,6 +712,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2019-10-26 13:08:50 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2019-10-18 16:07:08 -0500"
@@ -738,6 +744,7 @@
       "minecraft:phantom": "2019-10-18 17:03:58 -0500",
       "minecraft:witch": "2019-10-18 22:04:49 -0500",
       "minecraft:wither_skeleton": "2019-10-23 18:40:31 -0500",
+      "minecraft:cave_spider": "2019-10-26 11:28:32 -0500",
       "minecraft:silverfish": "2019-10-18 18:37:57 -0500",
       "minecraft:enderman": "2019-10-20 16:57:12 -0500",
       "minecraft:zombie": "2019-10-18 15:37:26 -0500",
@@ -928,6 +935,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2019-10-26 12:04:13 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2019-10-18 18:10:10 -0500"
@@ -1006,6 +1019,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2019-10-26 12:27:58 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2019-10-18 15:45:46 -0500"
@@ -1015,6 +1034,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2019-10-18 16:27:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2019-10-26 12:38:23 -0500"
     },
     "done": true
   },
@@ -1399,15 +1424,18 @@
       "minecraft:forest": "2019-10-18 21:55:35 -0500",
       "minecraft:badlands_plateau": "2019-10-22 20:08:56 -0500",
       "minecraft:taiga": "2019-10-23 19:52:38 -0500",
+      "minecraft:desert_hills": "2019-10-26 12:43:16 -0500",
       "minecraft:giant_tree_taiga": "2019-10-23 19:59:50 -0500",
       "minecraft:deep_cold_ocean": "2019-10-20 16:08:32 -0500",
       "minecraft:taiga_hills": "2019-10-23 20:00:50 -0500",
       "minecraft:desert": "2019-10-18 16:45:30 -0500",
       "minecraft:birch_forest": "2019-10-20 15:44:53 -0500",
+      "minecraft:deep_lukewarm_ocean": "2019-10-26 11:50:44 -0500",
       "minecraft:badlands": "2019-10-18 16:45:31 -0500",
       "minecraft:beach": "2019-10-20 15:51:54 -0500",
       "minecraft:dark_forest": "2019-10-18 15:45:31 -0500",
       "minecraft:river": "2019-10-18 16:45:24 -0500",
+      "minecraft:lukewarm_ocean": "2019-10-26 11:50:17 -0500",
       "minecraft:birch_forest_hills": "2019-10-20 15:48:45 -0500",
       "minecraft:wooded_mountains": "2019-10-18 18:26:02 -0500",
       "minecraft:wooded_hills": "2019-10-18 21:56:21 -0500",
@@ -1882,6 +1910,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2019-10-26 12:28:55 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_at_least_9_bonemeal": "2019-10-18 19:08:38 -0500"
@@ -1994,10 +2028,15 @@
     "criteria": {
       "cooked_porkchop": "2019-10-18 16:03:10 -0500",
       "cooked_mutton": "2019-10-18 16:36:55 -0500",
+      "sweet_berries": "2019-10-26 12:59:42 -0500",
       "cooked_beef": "2019-10-18 17:33:56 -0500",
+      "beef": "2019-10-26 12:38:44 -0500",
+      "baked_potato": "2019-10-26 12:58:22 -0500",
+      "potato": "2019-10-26 12:41:51 -0500",
       "cooked_cod": "2019-10-20 16:37:10 -0500",
       "bread": "2019-10-18 19:09:17 -0500",
       "rotten_flesh": "2019-10-18 15:44:06 -0500",
+      "salmon": "2019-10-26 12:38:26 -0500",
       "cooked_chicken": "2019-10-18 15:57:48 -0500",
       "carrot": "2019-10-18 17:04:05 -0500"
     },
@@ -2412,6 +2451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2019-10-26 12:38:23 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2019-10-18 16:59:46 -0500"
@@ -2610,6 +2655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2019-10-26 13:04:12 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-10-18 15:45:53 -0500"
@@ -2739,6 +2790,18 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2019-10-18 17:13:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2019-10-26 12:28:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2019-10-26 12:28:55 -0500"
     },
     "done": true
   },
@@ -2970,6 +3033,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2019-10-26 12:38:23 -0500"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2019-10-18 15:33:23 -0500"
@@ -3126,6 +3195,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2019-10-26 13:04:12 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_at_least_9_iron_nugget": "2019-10-22 21:00:27 -0500"
@@ -3165,6 +3240,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2019-10-20 15:52:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2019-10-26 12:28:55 -0500"
     },
     "done": true
   },
@@ -3219,6 +3300,18 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-10-18 17:44:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2019-10-26 12:27:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2019-10-26 12:28:55 -0500"
     },
     "done": true
   },
