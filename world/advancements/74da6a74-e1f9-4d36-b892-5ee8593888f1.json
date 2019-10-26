@@ -604,6 +604,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2019-10-26 17:16:42 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2019-10-18 17:34:59 -0500"
@@ -2032,6 +2038,7 @@
       "cooked_beef": "2019-10-18 17:33:56 -0500",
       "beef": "2019-10-26 12:38:44 -0500",
       "baked_potato": "2019-10-26 12:58:22 -0500",
+      "apple": "2019-10-26 15:20:49 -0500",
       "potato": "2019-10-26 12:41:51 -0500",
       "cooked_cod": "2019-10-20 16:37:10 -0500",
       "bread": "2019-10-18 19:09:17 -0500",
